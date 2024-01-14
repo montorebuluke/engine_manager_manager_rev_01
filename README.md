@@ -164,3 +164,5 @@ tested on ssd storage
 - snapshot format may change between major versions
 
 Apache-2.0 • [docs](https://docs.filetack.io)
+
+# PR Merge: 2026-07-27 08:44:46
